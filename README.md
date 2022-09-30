@@ -1,2 +1,2 @@
 # Projects
-This file contains my project made by me under the guidance of my College and as a pasrt of the academic value added projects using Python language.
+This file contains a project I created using Python as part of an academic value-added project under the direction of my college.
